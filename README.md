@@ -1,0 +1,1 @@
+[![Download program.exe](https://img.shields.io/badge/Download-program.exe-brightgreen)](https://github.com/saneag/concurs_utm_install/raw/main/dist/program.exe)
